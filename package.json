@@ -1,5 +1,5 @@
 {
-  "name": "react-with-webpack",
+  "name": "react-with-webpack-isolation-test-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,9 @@
     "build": "webpack",
     "start": "webpack-dev-server --open"
   },
-  "keywords": [],
+  "keywords": [
+    "react with webpack isolation test template"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
